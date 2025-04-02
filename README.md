@@ -27,14 +27,6 @@ A máquina de banho conta com as seguintes operações:
 - **Java**
 - **Programação Orientada a Objetos (POO)**
 
-## Como Usar
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/petshop-bath-machine.git
-   ```
-2. Compile e execute o código em sua IDE ou terminal.
-3. Utilize os métodos disponíveis para simular o funcionamento da máquina de banho.
-
 ## Autor
 Desenvolvido por **Jorge**.
 
