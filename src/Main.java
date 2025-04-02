@@ -23,26 +23,37 @@ public class Main {
             option = scanner.nextInt();
 
             switch (option) {
-                case 1: petMachine.takeAShower();
+                case 1: 
+                    petMachine.takeAShower();
                         break;
-                case 2:  setWater();
+                case 2:  
+                    setWater();
                         break;
-                case 3:  setShampoo();
+                case 3:  
+                    setShampoo();
                         break;
-                case 4:  verifyWater();
+                case 4:  
+                    verifyWater();
                         break;
-                case 5:  verifyShampoo();
+                case 5:  
+                    verifyShampoo();
                         break;
-                case 6:  checkIfHasPetInMachine();
+                case 6:  
+                    checkIfHasPetInMachine();
                         break;  
-                case 7:  setPetInPetMachine();
+                case 7:  
+                    setPetInPetMachine();
                         break;
-                case 8: petMachine.removePet();
+                case 8: 
+                    petMachine.removePet();
                         break;
-                case 9:  petMachine.wash();
+                case 9:  
+                    petMachine.wash();
                         break;
-                case 0: System.exit(0);
-                        break;
+                case 0: 
+                    System.out.println("Encerrando o programa...");
+                    scanner.close();
+                    return;
                 default:  System.out.println("Opcao inválida");
                         break;
             }
