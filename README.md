@@ -28,5 +28,5 @@ A máquina de banho conta com as seguintes operações:
 - **Programação Orientada a Objetos (POO)**
 
 ## Autor
-Desenvolvido por **Jorge**.
+Desenvolvido por **Jorginho Vigas**.
 
