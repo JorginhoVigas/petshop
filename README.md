@@ -1,5 +1,4 @@
-# PetShop Bath Machine
-
+# PetShop
 ## Sobre o Projeto
 Este projeto implementa o controle de uma máquina de banho para um petshop. A máquina permite a realização de banhos em pets, bem como o gerenciamento de seus recursos, como água e shampoo.
 
